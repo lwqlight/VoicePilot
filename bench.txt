@@ -1,0 +1,1 @@
+sudo: /usr/bin/time：找不到命令
